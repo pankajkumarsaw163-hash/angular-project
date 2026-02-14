@@ -1,5 +1,5 @@
 # Hello Angular (Minimal)
-
+//
 This is a minimal Angular "Hello World" application scaffold.
 
 Prerequisites
